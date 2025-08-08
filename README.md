@@ -39,7 +39,6 @@ A community platform for gamers featuring:
 
 ![Grade](https://img.shields.io/badge/Contribution%20Grade-B--green?style=flat)
 
-![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B-?style=flat)
 
 
 
