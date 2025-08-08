@@ -28,19 +28,18 @@ A community platform for gamers featuring:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics  
 
-| Total Stars Earned: | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&color=blue&style=flat) |
-|---------------------|--------------------------------------------------------------------------------------|
-| Total Commits (2025): | ![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?label=Commits&color=blue&style=flat) |
-| Total PRs: | ![PRs](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?label=PRs&color=blue&style=flat) |
-| Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/pratimashrestha1?label=Issues&color=blue&style=flat) |
-| Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=3&color=blue&style=flat) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical" width="48%" />
+</p>
 
-![Grades](https://github-readme-stats.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
----
+| **Metric**       | **Badge**                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| Total Stars      | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?color=blue) |
+| Total Commits    | ![Commits](https://img.shields.io/badge/Commits-200+-brightgreen)         |
+| Contribution     | ![Grade](https://img.shields.io/badge/Contribution-A+-green)              |
 
 ## 📫 Connect With Me
 
