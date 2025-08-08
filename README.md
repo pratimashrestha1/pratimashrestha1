@@ -31,17 +31,16 @@ A community platform for gamers featuring:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Pratima89-Shrestha&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=Pratima89-Shrestha&layout=compact&theme=radical)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=pratimashrestha1&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Quick Stats
 
-![Followers](https://img.shields.io/github/followers/Pratima89-Shrestha?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Pratima89-Shrestha?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/pratimashrestha1?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&style=social)
 
----
 
 ## 📫 Connect With Me
 
