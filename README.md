@@ -1,54 +1,54 @@
-# 👋 Hi there! I'm Pratima Shrestha
+# 👋 Hi, I'm Pratima Shrestha
 
-I'm a **Full-Stack Web Developer** focused on building fast, scalable, and user-centric applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). With a strong foundation in **Data Structures & Algorithms**, I strive to write clean, efficient, and maintainable code.
+I'm a **Full-Stack Web Developer** passionate about creating clean, responsive, and scalable web applications using the **MERN stack**. With a solid understanding of **Data Structures and Algorithms**, I write efficient and maintainable code.
 
-Currently, I'm expanding my knowledge in **DevOps** and **Cloud Technologies** like **Docker**, **CI/CD**, and **AWS**, aiming to build robust and production-ready applications.
+Currently exploring **DevOps** practices and **cloud platforms** like **Docker**, **CI/CD**, and **AWS** to streamline development and deployment.
 
 ---
 
-## 🚀 Projects I'm Working On
+## 🚀 Project Highlight
 
-- 🎮 **GamingOrbit** – A community platform for gamers featuring:
-  - Tournament hosting & bracket creation  
-  - Live streaming integration  
-  - Admin & organizer panel
+🎮 **GamingOrbit**  
+A community platform for gamers featuring:
+- Tournament & bracket creation  
+- Live streaming integration  
+- Admin & organizer controls
 
 ---
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Pratima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratima89-Shrestha&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratima89-Shrestha&layout=compact&theme=gruvbox)
+![Followers](https://img.shields.io/github/followers/Pratima89-Shrestha?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Pratima89-Shrestha?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Pratima89-Shrestha&color=brightgreen)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/pratima-shrestha-225494229/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Pratima89-Shrestha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratima-shrestha-225494229/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pratima89-Shrestha)
 
 ---
 
 ## 💡 Fun Fact
 
-I'm always curious and love turning ideas into real, functional products. Whether it's building scalable web apps, solving algorithmic problems, or exploring DevOps — I’m all in.
+I love turning ideas into real-world applications and constantly improving my skills in **web development**, **DevOps**, and **problem-solving** through DSA.
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *"Learning never exhausts the mind – it fuels it."*
 
