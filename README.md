@@ -40,7 +40,8 @@ A community platform for gamers featuring:
 
 ## 📊 GitHub Contribution Highlights
 
-![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-A-brightgreen?style=flat)
+![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?style=flat&label=Commits%20Past%20Year)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
 
