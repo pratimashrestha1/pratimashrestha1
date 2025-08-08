@@ -38,9 +38,16 @@ A community platform for gamers featuring:
 
 ---
 
-## 📊 GitHub Contribution Highlights
+##  GitHub Contribution Highlights (2025)
 
-![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?style=flat&label=Commits%20Past%20Year)
+- **Total Stars Earned:** XX  
+- **Total Commits (2025):** XX  
+- **Total PRs:** XX  
+- **Total Issues:** XX  
+- **Contributed to (last year):** XX  
+
+![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B-?style=flat)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
