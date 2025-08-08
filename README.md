@@ -29,16 +29,17 @@ A community platform for gamers featuring:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Pull Requests
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical)
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=pratimashrestha1&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-stats-alpha.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical" width="48%" />
+  <img src="https://img.shields.io/github/issues-pr-closed/pratimashrestha1?style=for-the-badge&label=Pull%20Requests%20Closed" width="48%" />
+</p>
 
 ---
 
 ## 📊 GitHub Contribution Highlights
 
-![Pull Requests](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?style=flat&label=PRs%20Closed)
 ![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-A-brightgreen?style=flat)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
