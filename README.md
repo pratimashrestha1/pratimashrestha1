@@ -37,7 +37,8 @@ A community platform for gamers featuring:
 | Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/pratimashrestha1?label=Issues&color=blue&style=flat) |
 | Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=3&color=blue&style=flat) |
 
-![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B--green?style=flat)
+![Contribution Grade](https://img.shields.io/badge/Contribution_Grade-B+-yellowgreen?style=flat)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
 ---
