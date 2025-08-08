@@ -30,20 +30,16 @@ A community platform for gamers featuring:
 ---
 ## 📊 GitHub Stats
 
-| Total Stars Earned: | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&style=flat) |
+| Total Stars Earned: | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&color=blue&style=flat) |
 |---------------------|--------------------------------------------------------------------------------------|
-| Total Commits (2025): | ![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?label=Commits&style=flat) |
-| Total PRs: | ![PRs](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?label=PRs&style=flat) |
-| Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/pratimashrestha1?label=Issues&style=flat) |
+| Total Commits (2025): | ![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?label=Commits&color=blue&style=flat) |
+| Total PRs: | ![PRs](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?label=PRs&color=blue&style=flat) |
+| Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/pratimashrestha1?label=Issues&color=blue&style=flat) |
 | Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=3&color=blue&style=flat) |
 
-![Grade](https://img.shields.io/badge/Contribution%20Grade-B--green?style=flat)
-
-
-
+![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B--green?style=flat)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
