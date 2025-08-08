@@ -4,7 +4,7 @@ I'm a **Full-Stack Web Developer** passionate about building clean, responsive, 
 
 Currently exploring **DevOps** and **cloud platforms** like **Docker**, **CI/CD**, and **AWS** to streamline development and deployment.
 
----
+--
 
 <!--
 ## 🚀 Project Highlight
@@ -15,7 +15,7 @@ A community platform for gamers featuring:
 - Live streaming integration  
 - Admin & organizer controls
 -->
----
+
 
 ## 📫 Connect With Me
 
