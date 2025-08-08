@@ -6,6 +6,7 @@ Currently exploring **DevOps** and **cloud platforms** like **Docker**, **CI/CD*
 
 ---
 
+<!--
 ## 🚀 Project Highlight
 
 🎮 **GamingOrbit**  
@@ -13,8 +14,16 @@ A community platform for gamers featuring:
 - Tournament & bracket creation  
 - Live streaming integration  
 - Admin & organizer controls
+-->
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratima-shrestha-225494229/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pratimashrestha1)
 
 ---
+
 
 ## 🛠 Tech Stack
 
@@ -41,12 +50,6 @@ A community platform for gamers featuring:
 | Total Commits    | ![Commits](https://img.shields.io/badge/Commits-200+-brightgreen)         |
 | Contribution     | ![Grade](https://img.shields.io/badge/Contribution-A+-green)              |
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratima-shrestha-225494229/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pratimashrestha1)
-
----
 
 ## 💡 Fun Fact
 
