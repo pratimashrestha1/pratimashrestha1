@@ -29,11 +29,17 @@ A community platform for gamers featuring:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Pratima89-Shrestha&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=Pratima89-Shrestha&layout=compact&theme=radical)
+
+---
+
+### 🔥 Quick Stats
 
 ![Followers](https://img.shields.io/github/followers/Pratima89-Shrestha?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/Pratima89-Shrestha?label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Pratima89-Shrestha&color=brightgreen)
 
 ---
 
