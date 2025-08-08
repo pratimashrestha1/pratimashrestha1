@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pratima Shrestha
 
-I'm a **Full-Stack Web Developer** passionate about creating clean, responsive, and scalable web applications using the **MERN stack**. With a solid understanding of **Data Structures and Algorithms**, I write efficient and maintainable code.
+I'm a **Full-Stack Web Developer** passionate about building clean, responsive, and scalable web apps using the **MERN stack**. With a strong foundation in **Data Structures and Algorithms**, I write efficient and maintainable code.
 
-Currently exploring **DevOps** practices and **cloud platforms** like **Docker**, **CI/CD**, and **AWS** to streamline development and deployment.
+Currently exploring **DevOps** and **cloud platforms** like **Docker**, **CI/CD**, and **AWS** to streamline development and deployment.
 
 ---
 
@@ -36,11 +36,14 @@ A community platform for gamers featuring:
 
 ---
 
-### 🔥 Quick Stats
+## 📊 GitHub Contribution Highlights
 
-![Followers](https://img.shields.io/github/followers/pratimashrestha1?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&style=social)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?style=flat&label=PRs%20Closed)
+![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-A-brightgreen?style=flat)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical)
+
+---
 
 ## 📫 Connect With Me
 
@@ -56,4 +59,3 @@ I love turning ideas into real-world applications and constantly improving my sk
 ---
 
 > *"Learning never exhausts the mind – it fuels it."*
-
