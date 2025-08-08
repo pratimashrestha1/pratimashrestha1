@@ -28,23 +28,16 @@ A community platform for gamers featuring:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats & Pull Requests
+| Total Stars Earned: | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?label=Stars&style=flat) |
+|---------------------|--------------------------------------------------------------------------------------|
+| Total Commits (2025): | ![Commits](https://img.shields.io/github/commit-activity/y/pratimashrestha1?label=Commits&style=flat) |
+| Total PRs: | ![PRs](https://img.shields.io/github/issues-pr-closed/pratimashrestha1?label=PRs&style=flat) |
+| Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/pratimashrestha1?label=Issues&style=flat) |
+| Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=3&color=blue&style=flat) |
 
-<p float="left">
-  <img src="https://github-stats-alpha.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical" width="48%" />
-  <img src="https://img.shields.io/github/issues-pr-closed/pratimashrestha1?style=for-the-badge&label=Pull%20Requests%20Closed" width="48%" />
-</p>
-
----
-
-##  GitHub Contribution Highlights (2025)
-
-- **Total Stars Earned:** XX  
-- **Total Commits (2025):** XX  
-- **Total PRs:** XX  
-- **Total Issues:** XX  
-- **Contributed to (last year):** XX  
+![Grade](https://img.shields.io/badge/Contribution%20Grade-B--green?style=flat)
 
 ![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B-?style=flat)
 
