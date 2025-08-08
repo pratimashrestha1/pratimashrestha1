@@ -4,7 +4,6 @@ I'm a **Full-Stack Web Developer** passionate about building clean, responsive, 
 
 Currently exploring **DevOps** and **cloud platforms** like **Docker**, **CI/CD**, and **AWS** to streamline development and deployment.
 
---
 
 <!--
 ## 🚀 Project Highlight
@@ -16,7 +15,6 @@ A community platform for gamers featuring:
 - Admin & organizer controls
 -->
 
---
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratima-shrestha-225494229/)
