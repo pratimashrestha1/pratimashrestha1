@@ -41,12 +41,13 @@ A community platform for gamers featuring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical" width="48%" />
 </p>
 
+<!--
 | **Metric**       | **Badge**                                                                 |
 |------------------|---------------------------------------------------------------------------|
 | Total Stars      | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?color=blue) |
 | Total Commits    | ![Commits](https://img.shields.io/badge/Commits-200+-brightgreen)         |
 | Contribution     | ![Grade](https://img.shields.io/badge/Contribution-A+-green)              |
-
+-->
 
 ## 💡 Fun Fact
 
