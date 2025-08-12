@@ -35,13 +35,13 @@ A community platform for gamers featuring:
 
 ---
 ## 📊 GitHub Analytics  
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratimashrestha1&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical" width="48%" />
 </p>
 
-<!--
+
 | **Metric**       | **Badge**                                                                 |
 |------------------|---------------------------------------------------------------------------|
 | Total Stars      | ![Stars](https://img.shields.io/github/stars/pratimashrestha1?color=blue) |
