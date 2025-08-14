@@ -37,8 +37,8 @@ A community platform for gamers featuring:
 ## 📊 GitHub Analytics  
 
 <p style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical" width="48%" />
-  
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratimashrestha1&theme=radical" width="48%" />
+   -->
   <table>
     <tr>
       <td><strong>Metric</strong></td>
